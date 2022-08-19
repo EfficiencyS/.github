@@ -8,5 +8,5 @@ A center that will offers you modern fully-equipped shared and individual office
 
 |   ![](https://www.efficiencys.com.sa/assets/imgs/services/office.png)  |  ![](https://www.efficiencys.com.sa/assets/imgs/services/services5.jpg) | ![](https://www.efficiencys.com.sa/assets/imgs/services/meating-room.png) |
 |:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
-|   ![](https://www.efficiencys.com.sa/assets/imgs/services/about.jpg)   |     ![](https://www.efficiencys.com.sa/assets/imgs/services/CR.jpg)    |      ![](https://www.efficiencys.com.sa/assets/imgs/services/MO.jpg)      |
+|   ![](https://www.efficiencys.com.sa/assets/imgs/services/about.jpg?v=1)   |     ![](https://www.efficiencys.com.sa/assets/imgs/services/CR.jpg)    |      ![](https://www.efficiencys.com.sa/assets/imgs/services/MO.jpg)      |
 | ![](https://www.efficiencys.com.sa/assets/imgs/services/services2.jpg) | ![](https://www.efficiencys.com.sa/assets/imgs/services/services9.jpg) |   ![](https://www.efficiencys.com.sa/assets/imgs/services/services6.jpg)  |
